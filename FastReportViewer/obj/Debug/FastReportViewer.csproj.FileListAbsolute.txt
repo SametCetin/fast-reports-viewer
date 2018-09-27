@@ -1,0 +1,9 @@
+D:\sc\Projects\cs\FastReportViewer\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\sc\Projects\cs\FastReportViewer\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\sc\Projects\cs\FastReportViewer\WindowsFormsApp1\obj\Debug\FastReportViewer.csprojResolveAssemblyReference.cache
+D:\sc\Projects\cs\FastReportViewer\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\sc\Projects\cs\FastReportViewer\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\sc\Projects\cs\FastReportViewer\WindowsFormsApp1\obj\Debug\FastReportViewer.csproj.GenerateResource.cache
+D:\sc\Projects\cs\FastReportViewer\WindowsFormsApp1\obj\Debug\FastReportViewer.csproj.CoreCompileInputs.cache
+D:\sc\Projects\cs\FastReportViewer\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\sc\Projects\cs\FastReportViewer\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
