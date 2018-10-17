@@ -10,3 +10,16 @@ D:\sc\Projects\cs\FastReportViewer\FastReportViewer\obj\Release\FastReportViewer
 D:\sc\Projects\cs\FastReportViewer\FastReportViewer\obj\Release\FastReportViewer.csproj.CopyComplete
 D:\sc\Projects\cs\FastReportViewer\FastReportViewer\obj\Release\FastReportViewer.exe
 D:\sc\Projects\cs\FastReportViewer\FastReportViewer\obj\Release\FastReportViewer.pdb
+D:\sct\Projects\cs\FastReportViewerHaffnerBarcode\FastReportViewer\bin\Release\FastReportViewer.exe
+D:\sct\Projects\cs\FastReportViewerHaffnerBarcode\FastReportViewer\bin\Release\FastReportViewer.pdb
+D:\sct\Projects\cs\FastReportViewerHaffnerBarcode\FastReportViewer\bin\Release\FastReport.Bars.dll
+D:\sct\Projects\cs\FastReportViewerHaffnerBarcode\FastReportViewer\bin\Release\FastReport.dll
+D:\sct\Projects\cs\FastReportViewerHaffnerBarcode\FastReportViewer\bin\Release\FastReport.Editor.dll
+D:\sct\Projects\cs\FastReportViewerHaffnerBarcode\FastReportViewer\obj\Release\FastReportViewer.csprojResolveAssemblyReference.cache
+D:\sct\Projects\cs\FastReportViewerHaffnerBarcode\FastReportViewer\obj\Release\WindowsFormsApp1.Form1.resources
+D:\sct\Projects\cs\FastReportViewerHaffnerBarcode\FastReportViewer\obj\Release\FastReportViewer.Properties.Resources.resources
+D:\sct\Projects\cs\FastReportViewerHaffnerBarcode\FastReportViewer\obj\Release\FastReportViewer.csproj.GenerateResource.cache
+D:\sct\Projects\cs\FastReportViewerHaffnerBarcode\FastReportViewer\obj\Release\FastReportViewer.csproj.CoreCompileInputs.cache
+D:\sct\Projects\cs\FastReportViewerHaffnerBarcode\FastReportViewer\obj\Release\FastReportViewer.csproj.CopyComplete
+D:\sct\Projects\cs\FastReportViewerHaffnerBarcode\FastReportViewer\obj\Release\FastReportViewer.exe
+D:\sct\Projects\cs\FastReportViewerHaffnerBarcode\FastReportViewer\obj\Release\FastReportViewer.pdb

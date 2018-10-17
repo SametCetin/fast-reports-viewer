@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
+using System.Data.OleDb;
 using System.Drawing;
 using System.Linq;
 using System.Text;
@@ -13,7 +14,7 @@ namespace WindowsFormsApp1
 {
     public partial class Form1 : Form
     {
-             
+
         public Form1()
         {
             InitializeComponent();
@@ -38,11 +39,32 @@ namespace WindowsFormsApp1
                     ;
                 else
                     txtFileName.Text = fileDialog.FileName;
+                
+            }
+
+        }
+
+        private void btnOpen_Click(object sender, EventArgs e)
+        {
+            OpenPartDB();  
+        }
+
+        private void OpenPartDB()
+        {
+            string connString = "Provider=Microsoft.Jet.OLEDB.4.0;Data Source=C:\\Project.mdb";
+            OleDbConnection dbConnection = new OleDbConnection(connString);
+            try
+            {
+                dbConnection.Open();
+            }
+            catch(Exception err)
+            {
+                MessageBox.Show(err.Message.ToString());
             }
             
         }
 
-        private void btnOpen_Click(object sender, EventArgs e)
+        private void OpenFrxFile()
         {
             try
             {
@@ -50,6 +72,7 @@ namespace WindowsFormsApp1
                 barcodeView.PrintSettings.ShowDialog = false;
                 barcodeView.PrintSettings.Printer = "Pr0";
                 barcodeView.Load(txtFileName.Text);
+                //barcodeView.RegisterData();
                 barcodeView.Design();
             }
             catch (Exception err)
@@ -58,6 +81,7 @@ namespace WindowsFormsApp1
 
             }
         }
+        
 
         private void txtFileName_TextChanged(object sender, EventArgs e)
         {
