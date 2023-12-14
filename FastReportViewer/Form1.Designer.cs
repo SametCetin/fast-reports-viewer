@@ -39,7 +39,6 @@
             this.txtFileName.Name = "txtFileName";
             this.txtFileName.Size = new System.Drawing.Size(324, 20);
             this.txtFileName.TabIndex = 0;
-            this.txtFileName.TextChanged += new System.EventHandler(this.txtFileName_TextChanged);
             // 
             // btnBrowse
             // 
@@ -73,7 +72,6 @@
             this.MinimumSize = new System.Drawing.Size(365, 150);
             this.Name = "Form1";
             this.Text = "Form1";
-            this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
